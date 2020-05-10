@@ -1,0 +1,7 @@
+PUT http://localhost:3001/api/phonebook/5eb830c97b091320dec74c9c
+Content-Type: application/json
+
+{
+    "name" : "ARSENAL12345",
+    "number" : "12345667"
+}
